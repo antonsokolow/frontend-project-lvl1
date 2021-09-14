@@ -12,3 +12,5 @@ Terminal session recorder and the best companion of
 [![demo](https://asciinema.org/a/xRYx35o6s475OAirQ4gj0y7Pi.svg)](https://asciinema.org/a/xRYx35o6s475OAirQ4gj0y7Pi?autoplay=1)
 
 [![demo](https://asciinema.org/a/b7YvgBHVKtDwQc1SqWO84Wd05.svg)](https://asciinema.org/a/b7YvgBHVKtDwQc1SqWO84Wd05?autoplay=1)
+
+[![demo](https://asciinema.org/a/IclIs6iccvK9Pw1bTjaNAxYaw.svg)](https://asciinema.org/a/IclIs6iccvK9Pw1bTjaNAxYaw?autoplay=1)
