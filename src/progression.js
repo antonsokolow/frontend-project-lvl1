@@ -10,11 +10,14 @@ const generateProgression = (length) => {
   let result = '';
   let correctUnswer;
   for (let i = 0; i < length; i += 1) {
+    if (i > 0) {
+      result += ' ';
+    }
     if (skippedNum === i) {
-      result += ' ..';
+      result += '..';
       correctUnswer = `${a1 + i * d}`;
     } else {
-      result += ` ${a1 + i * d}`;
+      result += `${a1 + i * d}`;
     }
   }
   return [result, correctUnswer];
