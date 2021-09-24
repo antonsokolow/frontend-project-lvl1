@@ -27,9 +27,11 @@
   },
   "homepage": "https://github.com/antonsokolow/frontend-project-lvl1#readme",
   "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^14.2.1",
-    "eslint-plugin-import": "^2.24.2",
-    "readline-sync": "^1.4.10"
+    "eslint-plugin-import": "^2.24.2"
   }
 }
